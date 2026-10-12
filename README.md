@@ -7,10 +7,10 @@
 ## Week 1-2: Python Foundations (Days 1-14)
 
 ### Days 1-7
-- [ ] Set up Python 3.12+
-- [ ] Set up an editor
-- [ ] Create a virtual environment
-- [ ] Set up Git
+- [x] Set up Python 3.12+
+- [x] Set up an editor
+- [x] Create a virtual environment
+- [x] Set up Git
 - [ ] Review core data types
 - [ ] Review control flow
 - [ ] Review functions
